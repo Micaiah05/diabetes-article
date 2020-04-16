@@ -1,6 +1,7 @@
 body{
     background-color: black;
     color: white;
+    font-family: 'Nunito', sans-serif;
 }
 
 .sectionheader{
@@ -19,13 +20,13 @@ body{
 
 .answer{
     font-size: 25px;
-    padding-left: 75px;
+    padding-left: 100px;
     padding-right: 50px;
     color: grey;
 }
 
 li{
-    padding-left: 75px;
+    padding-left: 100px;
     font-size: 25px;
     padding-right: 50px;
     color: grey;
