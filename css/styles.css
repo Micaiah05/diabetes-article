@@ -14,7 +14,7 @@ body{
 .problems{
     font-size: 25px;
     padding-left: 50px;
-    color: lightskyblue;
+    color: lightseagreen;
     text-decoration: underline;
 }
 
@@ -55,13 +55,13 @@ li{
 .contentlink{
     font-size: 25px;
     text-decoration: none;
-    color: lightgreen;
+    color: lightseagreen;
     scroll-padding-right: 40px;
 }
 
 .contentlink:hover{
     text-decoration: underline;
-    color: #5486d6;
+    color: blue;
     transition: 1.0s;
     
 }
@@ -75,7 +75,7 @@ li{
 #author{
     padding-left: 50px;
     font-size: 20px;
-    color: #44546e;
+    color: #5f718c;
 
 }
 
@@ -83,7 +83,7 @@ li{
     font-weight: bolder;
 }
 
-#info1{
+.info1{
     padding-left: 50px;
     font-size: 25px;
     margin-right: 40px;
@@ -95,11 +95,27 @@ li{
 
 #image1{
     margin-top: 50px;
-    height: 275px;
+    height: 250px;
     margin-right: 20px;
 }
 
 .caption{
-    color: #44546e;
+    color: #5f718c;
     font-size: 20px;
+}
+
+#image2{
+    margin-top: 175px;
+    height: 270px;
+    margin-right: 20px;
+}
+
+#image3{
+    margin-top: 100px;
+    height: 160px;
+    margin-right: 20px;
+}
+
+#image4{
+    height: 325px;
 }
