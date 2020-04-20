@@ -1,4 +1,4 @@
-var i = 0;
+var i = 2;
 
 function update(){
     if (i % 2 === 0){
