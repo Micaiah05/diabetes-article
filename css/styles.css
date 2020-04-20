@@ -1,5 +1,5 @@
 body{
-    background-color: #02041f;
+    background-color: #0d1e4a;
     color: grey;
     font-family: 'Nunito', sans-serif;
 }
@@ -118,4 +118,36 @@ li{
 
 #image4{
     height: 325px;
+}
+
+.imp{
+    color: white;
+}
+
+#image5{
+    height: 325px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+#image6{
+    
+    margin-top: 75px;
+}
+
+#choice{
+    padding: 20px;
+    font-size: 25px;
+    margin-right: 100px;
+    margin-left: 100px;
+    text-decoration: underline;
+    border: 3px solid white;
+    border-radius: 50px;
+    text-align: center;
+}
+
+#choice:hover{
+    color: blue;
+    transition: 1s;
+    background-color: lightseagreen;
 }
