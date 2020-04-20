@@ -151,3 +151,29 @@ li{
     transition: 1s;
     background-color: lightseagreen;
 }
+
+#copyright{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.bot{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+#bottomlinks{
+    margin-left: 220px;
+}
+
+.bot:hover{
+    color: blue;
+    transition: 1s;
+    text-decoration: underline;
+}
