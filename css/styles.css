@@ -12,7 +12,7 @@ body{
 }
 
 .problems{
-    font-size: 30px;
+    font-size: 25px;
     padding-left: 50px;
     color: lightskyblue;
     text-decoration: underline;
@@ -36,10 +36,11 @@ li{
     text-align: center;
     font-size: 55px;
     color: white;
+    padding-bottom: 0;
 }
 
 #subtitle{
-    font-size: 30px;
+    font-size: 25px;
     color: grey;
     padding-left: 50px;
 }
@@ -61,7 +62,7 @@ li{
 .contentlink:hover{
     text-decoration: underline;
     color: #5486d6;
-    transition: 0.7s;
+    transition: 1.0s;
     
 }
 
@@ -70,4 +71,35 @@ li{
     color: white;
     margin: 25px;
     text-decoration: underline;
+}
+#author{
+    padding-left: 50px;
+    font-size: 20px;
+    color: #44546e;
+
+}
+
+.name{
+    font-weight: bolder;
+}
+
+#info1{
+    padding-left: 50px;
+    font-size: 25px;
+    margin-right: 40px;
+}
+
+.flex{
+    display: flex;
+}
+
+#image1{
+    margin-top: 50px;
+    height: 275px;
+    margin-right: 20px;
+}
+
+.caption{
+    color: #44546e;
+    font-size: 20px;
 }
